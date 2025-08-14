@@ -29,3 +29,5 @@ _snippets/
    - `chore: reorganize folders`
 
 Tip: JetBrains(GoLand/PhpStorm)나 VS Code의 Markdown 미리보기로 확인하면서 편집하세요.
+
+Test PR from Ji-Minyoung-coder
