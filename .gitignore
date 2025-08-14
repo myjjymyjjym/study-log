@@ -1,0 +1,12 @@
+# OS / editors
+.DS_Store
+Thumbs.db
+*.swp
+
+# Node or Python (optional notes)
+node_modules/
+__pycache__/
+
+# Build artifacts
+dist/
+build/
